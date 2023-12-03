@@ -1,0 +1,20 @@
+/* Write your CSS here */
+li {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+
+p {
+  font-family: 'Roboto';
+}
+
+button {
+  background-color: white;
+  border: 2px #ff0b37 solid;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  width: 80px;
+  height: 35px;
+  color: #ff0b37;
+}
